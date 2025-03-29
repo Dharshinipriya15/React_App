@@ -28,7 +28,7 @@ This is a React application that integrates with the Reqres API to perform user 
 ## Installation
 
 1️⃣ Clone this repository:
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Dharshinipriya15/React_App.git
 2️⃣ Install dependencies:
 npm install
 3️⃣ Start the development server:
